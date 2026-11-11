@@ -3,7 +3,7 @@
 Homebrew tap for [SilkNest](https://github.com/shxwat/silknest), a clipboard manager for Mac with a spider.
 
 ```sh
-brew install --cask shxwat/tap/silknest
+brew trust shxwat/tap && brew install --cask shxwat/tap/silknest
 ```
 
 SilkNest is not notarized by Apple yet: after installing, open it once, then System Settings → Privacy &
