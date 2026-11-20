@@ -1,6 +1,6 @@
 cask "silknest" do
-  version "1.3.0"
-  sha256 "31045271a80094cfe84046ab3d42e4a9c9e033edd42b50679dacbf845b335a1f"
+  version "1.3.1"
+  sha256 "03eebb8771ead2ee7288b5504515df531d39ec82053d49c9ef9b449c741de9bc"
 
   url "https://github.com/shxwat/silknest/releases/download/v#{version}/SilkNest-#{version}.dmg"
   name "SilkNest"
